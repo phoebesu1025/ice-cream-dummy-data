@@ -1,5 +1,5 @@
 // Dummy Data
-export const pictureData = [
+export const iceCreamData = [
     {
       id: 1,
       name: "Cotton Candy",
